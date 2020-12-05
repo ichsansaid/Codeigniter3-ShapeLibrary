@@ -22,6 +22,7 @@ $this->shape->extend('db','dashboard', [
 ])
 ```
 It means you will use view 'dashboard.html' for the first Shape that will be rendered
+
 and then how to add Shape ?
 ```sh
 #Key = unique id for your Shape
@@ -57,7 +58,9 @@ or if you want to re-extend your view
 $this->shape->load('dashboard2')
 ```
 and then you will see the dasboard2 views
+
 how to render the shape in dashboard2 that has already added in dashboard2 ?
+
 you can do this in your dashboard2.html
 ```sh
 <html>
@@ -65,6 +68,7 @@ you can do this in your dashboard2.html
 </html>
 ```
 its easy, right ?
+
 and then how to get the navbar's data ?
 ```sh
 <html>
@@ -78,6 +82,7 @@ If you want to get global data you can do
 </html>
 ```
 Can you render shape in navbar.html ? Yes you can !
+
 navbar.html
 ```sh
 <html>
@@ -99,8 +104,11 @@ Appreciate the person who created it, you can contact me if you have an idea of 
 
 ### Contact me, I NEED TO EAT, HELL YEAH ! I ACCEPTED FOR DOING A PROJECT !
 Email : ichsann.saidd@gmail.com
+
 Instagram : said_nrs
+
 Facebook : https://www.facebook.com/telorjan/
+
 Because my english is so bad, i think i only accept project from indonesian people :(
 
 
