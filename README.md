@@ -102,7 +102,7 @@ License
 Appreciate the person who created it, you can contact me if you have an idea of a better feature to discuss, I hope that if this library is useful, you will share this library with your friends.
 
 
-### Contact me, I NEED TO EAT, HELL YEAH ! I ACCEPTED FOR DOING A PROJECT !
+### Contact me, I NEED TO EAT, HELL YEAH ! DOING A PROJECT !
 Email : ichsann.saidd@gmail.com
 
 Instagram : said_nrs
