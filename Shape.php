@@ -127,7 +127,7 @@ class Shape{
 		return $this;
 	}
 
-	public function load($key=NULL, $extend=NULL, $value=NULL, $data = NULL){
+	public function render($key=NULL, $extend=NULL, $value=NULL, $data = NULL){
 		$this->data_global = $data != NULL ? $data : $this->data_global;	
 		$dataShape = new DataShape($this->data_shape, $this->data_global, $this->shape, $extend != NULL ? $key : $this->key_extend);
 		$this->CI->load->view($extend != NULL ? $extend : $this->extend, ['shape'=>$dataShape]);
