@@ -51,11 +51,11 @@ $this->shape->setGlobalData('title', "Point Of Sale");
 ```
 and then after you've put all the Shapes, if you want to render View and all Shapes to your website, you can do
 ```sh
-$this->shape->load()
+$this->shape->render()
 ```
 or if you want to re-extend your view
 ```sh
-$this->shape->load('dashboard2')
+$this->shape->render('dashboard2')
 ```
 and then you will see the dasboard2 views
 
